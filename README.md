@@ -1,5 +1,4 @@
-﻿For a final-year project, a professional GitHub README should explain the project, features, tech stack, setup, and screenshots. Here's a polished version you can use.
-
+﻿
 # Smart Attendance Management System
 
 A modern AI-powered attendance management system built using **Python, Streamlit, Face Recognition, and Supabase**. The system enables teachers and students to manage attendance efficiently through facial recognition, subject enrollment, and real-time attendance tracking.
