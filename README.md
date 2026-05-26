@@ -31,6 +31,7 @@ Real-Time Data Storage
 Secure Authentication
 Attendance Logging
 Student-Subject Relationship Management
+
 🛠️ Technology Stack
 Technology	Purpose
 Python	Backend Logic
