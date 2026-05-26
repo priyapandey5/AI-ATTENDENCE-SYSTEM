@@ -6,11 +6,11 @@ def style_background_home():
         <style>
 
                 .stApp {
-                    background: #182f33 !important;
+                    background: #5865F2 !important;
                 }
 
                 .stApp div[data-testid="stColumn"]{
-                    background-color:#e1eef7 !important;
+                    background-color:#E0E3FF !important;
                     padding:2.5rem !important;
                     border-radius: 5rem !important;
                     }
